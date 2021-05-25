@@ -1,0 +1,133 @@
+h1{
+    font-family : Crowd Pleaser DEMO;
+    font-size : 64px;
+    color : #4373E2;
+    color : rgb(67, 115, 226);
+    text-align: center;
+  }
+  img{
+    position: relative; left: 92%; top: -97.6px;
+    height: 50px;
+    width: auto;
+  }
+  .one{
+    font-family : Crowd Pleaser DEMO;
+	font-size : 40px;
+	color : #666666;
+	color : rgb(102, 102, 102);
+    line-height: 50%;
+    position: relative; left: 10%; 
+    margin-top: 15px;
+  }
+  .two{
+    font-family : Crowd Pleaser DEMO;
+	font-size : 40px;
+	color : #666666;
+	color : rgb(102, 102, 102);
+    line-height: 50%;
+    position: relative; left: 10%;
+    margin: 0px;
+  }
+  .three{
+    font-family : Crowd Pleaser DEMO;
+	font-size : 40px;
+	color : #666666;
+	color : rgb(102, 102, 102);
+    line-height: 50%;
+    position: relative; left: 10%; 
+  }
+  .four{
+    font-family : Crowd Pleaser DEMO;
+	font-size : 40px;
+	color : #666666;
+	color : rgb(102, 102, 102);
+    line-height: 50%;
+    position: relative; left: 10%; 
+    margin: 0px;
+  }
+  .five{
+    font-family : Crowd Pleaser DEMO;
+	font-size : 40px;
+	color : #666666;
+	color : rgb(102, 102, 102);
+    line-height: 50%;
+    position: relative; left: 10%; 
+  }
+  .six{
+    font-family : Crowd Pleaser DEMO;
+	font-size : 40px;
+	color : #666666;
+	color : rgb(102, 102, 102);
+    line-height: 50%;
+    position: relative; left: 10%; 
+    margin: 0px;
+  }
+    .seven{
+    font-family : Crowd Pleaser DEMO;
+	font-size : 40px;
+	color : #666666;
+	color : rgb(102, 102, 102);
+    line-height: 50%;
+    position: relative; left: 10%;
+    margin-top: 15px;
+    }
+    .eight{
+    font-family : Crowd Pleaser DEMO;
+    font-size : 40px;
+    color : #666666;
+    color : rgb(102, 102, 102);
+    line-height: 50%;
+    margin: 0px;
+    position: relative; left: 10%; 
+    } 
+    .nine{
+    font-family : Crowd Pleaser DEMO;
+    font-size : 40px;
+    color : #666666;
+    color : rgb(102, 102, 102);
+    line-height: 50%;
+    margin: 0px;
+    position: relative; left: 74.75%; top:-505px; 
+    }
+  .box{
+    width: 275px;
+    height: 375px;
+    border: 5px solid #666666;
+    border-radius: 10px;
+    position: relative; left: 5%;
+    }
+  .box1{
+    width: 200px;
+    border: 3px solid rgb(204, 204, 204);
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    margin-bottom: 0px;
+    position: relative; left: 10%; top: 7px;
+  }
+  .box2{
+    border: 5px solid #666666;
+    border-radius: 10px;
+    position: relative; top: -30px;
+    width: 275px;
+    height: 125px;
+    position: relative; left: 40%; top: -135px;
+  }
+  .box3{
+    width: 200px;
+    border: 3px solid rgb(204, 204, 204);
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+    margin-bottom: 0px;
+    position: relative; left: 10%; top: 7px;
+  }
+.box4{
+    width: 275px;
+    height: 325px;
+    border: 5px solid #666666;
+    border-radius: 10px;
+    position: relative; left: 75%; top: -490px;
+}
+  
+ 
